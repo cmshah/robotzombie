@@ -32,4 +32,15 @@ TODO: descriptions
   - Jack
   - Nicky
 - Episode 4
-  - 
+  - Emily
+  - Westley
+  - Nathaniel
+  - Kira
+  - Mattori
+  - Zach 
+  - Andrew 
+  - Dillon
+  - Makoto
+  - Caraisa
+  - Ella
+  - Ben
